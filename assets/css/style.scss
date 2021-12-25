@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import 'https://fonts.googleapis.com/css?family=Libre+Franklin:300,400,500,700';
+
+// other useful colors #025159 #025373 #222
+body {
+  background-color: #025373;
+  color: #0CDBF2;
+  font-family: 'Libre Franklin', helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #0CDBF2;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2, h3, h4, h5, h6 {
+  font-weight: 500;
+}
+
+p, strong, em {
+  color: #0CDBF2;
+}
+
+p {
+  font-weight: 400;
+}
+
+strong {
+  font-weight: 700;
+}
+
+a {
+  color: #0CF2F2;
+  font-weight: inherit;
+}
+
+a:hover {
+ color: #BF6060;
+ font-weight: inherit;
+}
+
+code, pre {
+  color: #fafafa;
+}
