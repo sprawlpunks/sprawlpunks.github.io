@@ -25,6 +25,10 @@ Our approach started at messaging, the building block of any true social platfor
 
 [More on all these points, and the wider philosophy of the project, can be found here](./pages/approach.html).
 
+## Who are we?
+
+The Sprawl team is made up of core devs and contributors for other Cosmos ecoystem projects, and smart contract engineers. We have watched the space evolve and think we have something to add to the conversation.
+
 ## Scope
 
 Okay, that's all very lofty. What are we doing now?
