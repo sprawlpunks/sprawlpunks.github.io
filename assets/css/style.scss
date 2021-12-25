@@ -5,7 +5,7 @@
 
 @import 'https://fonts.googleapis.com/css?family=Libre+Franklin:300,400,500,700';
 
-// other useful colors #025159 #025373 #222 #BF6500 #028ABF #1790BF #BF6060 #012533
+// other useful colors #025159 #025373 #222 #BF6500 #028ABF #1790BF #BF6060 #012533 #F22494
 body {
   background-color: #222;
   color: #0CDBF2;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  color: #BF9417;
+  color: #00F987; // 00DBB5 more muted
   font-weight: 500;
 }
 
@@ -38,7 +38,7 @@ strong {
 }
 
 a {
-  color: #BF3E17;
+  color: #005DF9; // or 00F283
   font-weight: inherit;
 }
 
