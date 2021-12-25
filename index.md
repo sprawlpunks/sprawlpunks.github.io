@@ -2,7 +2,7 @@ Sprawl is a port city for decentralised interaction. Person-to-person, and contr
 
 Sprawl is a network, a toolkit, and eventually, a shared security foundation.
 
-We believe the time is now for mass adoption of web3 technologies.
+We believe the time is now for mass adoption of web3† technologies.
 
 We want to solve the hard problems of user ergonomics in the space.
 
@@ -36,3 +36,5 @@ Okay, that's all very lofty. What are we doing now?
 We have a straightforward roadmap and will be building in the open on the [Sprawl Discord]().
 
 Our initial roadmap is focussed on the messaging and addressability MVPs, and we will be launching our first testnet in Q1 2022 to start stress testing our first prototypes.
+
+† _though we tend to use the word interchain instead. `internet -> interchain` has a certain ring to it.
