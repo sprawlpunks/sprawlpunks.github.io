@@ -30,4 +30,4 @@ In the 2000s, everybody worked out enough HTML to customise their MySpace page.
 
 Now, we want to give users the ability to interact with the core of the platform, to customise their experience. That could be creating a custom interaction for their profile or minting NFT art.
 
-[back](./)
+[back](../index.md)
