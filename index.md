@@ -1,5 +1,3 @@
-## Sprawl
-
 Sprawl is a port city for decentralised interaction. Person-to-person, and contract-to-contract.
 
 Sprawl is a network, a toolkit, and eventually, a shared security foundation.
