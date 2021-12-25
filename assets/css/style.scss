@@ -5,7 +5,7 @@
 
 @import 'https://fonts.googleapis.com/css?family=Libre+Franklin:300,400,500,700';
 
-// other useful colors #025159 #025373 #222 #BF6500 #028ABF #1790BF
+// other useful colors #025159 #025373 #222 #BF6500 #028ABF #1790BF #BF6060
 body {
   background-color: #012533;
   color: #0CDBF2;
@@ -21,6 +21,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
+  color: #BF9417;
   font-weight: 500;
 }
 
@@ -37,12 +38,12 @@ strong {
 }
 
 a {
-  color: #0CF2F2;
+  color: #BF3E17;
   font-weight: inherit;
 }
 
 a:hover {
- color: #BF6060;
+ color: #BF9417;
  font-weight: inherit;
 }
 
