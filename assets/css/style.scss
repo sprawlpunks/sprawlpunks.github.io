@@ -21,7 +21,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  color: #00DBB5; // 00DBB5 more muted
+  color: #00DBB5;
   font-weight: 500;
 }
 
@@ -42,8 +42,11 @@ a {
   font-weight: inherit;
 }
 
-#main-title a {
- color: #fdfdfd; 
+#main-title {
+  text-align: center;
+  a {
+    color: #fdfdfd; 
+  }
 }
 
 a:hover {
