@@ -14,7 +14,7 @@ We want to solve the hard problems of user ergonomics in the space.
 
 ## Approach
 
-Other systems have focussed on indexing and providing gateways into web3, but haven't committed to never leaving web3.
+Other systems focus on providing gateways into web3, but few commit to building everything on the interchain.
 
 Our approach started at messaging, the building block of any true social platform. To achieve this, you need:
 
@@ -35,6 +35,8 @@ Okay, that's all very lofty. What are we doing now?
 
 We have a straightforward roadmap and will be building in the open on the [Sprawl Discord]().
 
-Our initial roadmap is focussed on the messaging and addressability MVPs, and we will be launching our first testnet in Q1 2022 to start stress testing our first prototypes.
+Our initial roadmap is focussed on  messaging and addressability MVPs.
+
+We will be launching our first testnet in Q1 2022 to start stress testing the first prototypes.
 
 † _though we tend to use the word interchain instead. `internet -> interchain` has a certain ring to it.
