@@ -33,7 +33,7 @@ The Sprawl team is made up of core devs and contributors for other Cosmos ecoyst
 
 Okay, that's all very lofty. What are we doing now?
 
-We have a straightforward roadmap and will be building in the open on the [Sprawl Discord]().
+We have a straightforward roadmap and will be building in the open on the [Sprawl Discord](https://discord.gg/5HjBhrgx).
 
 Our initial roadmap is focussed on  messaging and addressability MVPs.
 
