@@ -39,4 +39,4 @@ Our initial roadmap is focussed on  messaging and addressability MVPs.
 
 We will be launching our first testnet in Q1 2022 to start stress testing the first prototypes.
 
-† _though we tend to use the word interchain instead. `internet -> interchain` has a certain ring to it.
+† _though we use the word interchain instead. `internet -> interchain` has a certain ring to it.
